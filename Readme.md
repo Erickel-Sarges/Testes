@@ -2,7 +2,7 @@
 
 > Projeto próprio.
 
-<b> O foco desse projeto é apenas testar conceitos apredidos, durante meus estudos</b>
+<b> O foco desse projeto é apenas testar conceitos aprendidos, durante meus estudos</b>
 
 <h2 align="center">
   Acesse o projeto clicando <a href="https://erickel-sarges.github.io/Testes/">AQUI</a>!
