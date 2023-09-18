@@ -1,3 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 
+body {
+  font-family: Borel, Arial, Helvetica, sans-serif;
+}
+@font-face {
+  font-family: Borel;
+  src: url(../fonts/Borel-Regular.ttf);
+}
+
+#header {
+  padding: 10px;
+  background-color: #9ff1f1;
+  border: solid 5px #000000;
+}
+#header h1 {
+  text-shadow: 2px 2px white;
+}
 
 /*# sourceMappingURL=styles.css.map */
