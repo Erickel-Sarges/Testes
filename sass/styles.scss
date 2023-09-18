@@ -22,9 +22,26 @@ body{
  border: solid 5px #000000;
     
     h1{
-        text-shadow: 2px 2px white;
+        text-shadow: 2px 2px #ffffff;
         
     }
    
+
+}
+
+.nav-bar{
+
+    background-color: #a1dddd;
+    border: double 10px;
+    padding: 10px;
+
+    div{
+
+        text-shadow: 2px 2px #ffffff;
+        border: solid 1px #000000;
+        margin-bottom: 5px;
+        padding: 5px;
+    }
+
 
 }
