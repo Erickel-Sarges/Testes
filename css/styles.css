@@ -33,4 +33,17 @@ body {
   padding: 5px;
 }
 
+.footer {
+  background-color: #a1dddd;
+  border: double 10px #000000;
+}
+.footer-div {
+  padding: 10px;
+  margin-left: 20px;
+}
+.footer p {
+  text-align: center;
+  margin-bottom: -10px;
+}
+
 /*# sourceMappingURL=styles.css.map */
