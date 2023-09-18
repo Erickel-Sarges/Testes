@@ -2,16 +2,16 @@
 
 > Projeto próprio.
 
-<b> Nesse projeto falo um pouco sobre minhas experiências</b>
+<b> O foco desse projeto é apenas testar conceitos apredidos, durante meus estudos</b>
 
 <h2 align="center">
   Acesse o projeto clicando <a href="https://erickel-sarges.github.io/Testes/">AQUI</a>!
 </h2>
 
-![](./assets/currículo-projeto.png)
+![](./image/projeto-1.png)
 
 <!-- <br> -->
-![](./assets/currículo-projeto-2.png)
+![](./image/projeto-2.png)
 
 ## :computer: Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
