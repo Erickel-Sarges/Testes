@@ -14,7 +14,7 @@
 ![](./image/projeto-2.png)
 
 ## :computer: Tecnologias utilizadas
-O projjeto foi desenvolvido utilizando as seguintes tecnologias:
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - <b>HTML</b>
 - <b>CSS</b>
 - <b>SASS</b>
