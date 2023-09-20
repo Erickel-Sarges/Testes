@@ -1,7 +1,10 @@
+@use 'mixins';
+
 *{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    
 
 
 }
@@ -11,19 +14,54 @@ body{
     @font-face {
         font-family: Borel;
         src: url(../fonts/Borel-Regular.ttf);
+        
       }
 
       font-family: Borel, Arial, Helvetica, sans-serif;
 }
 
+
+
 #header{
  padding: 10px;
  background-color: #9ff1f1;
  border: solid 5px #000000;
+ 
+
+ .header-social-media{
+
+    ul{
+        @include mixins.social;
+        height: 100%;
+        list-style: none;
+
+            li{
+                margin: 0 1rem;
+                a{
+                    text-decoration: none;
+                    color: #000000;
+                    &:hover{
+                        color: #00000088;
+                    }
+                }
+            }
+    }
+ }
+ 
     
     h1{
         text-shadow: 2px 2px #ffffff;
         
+    }
+    h1:hover{
+        cursor: pointer;
+
+    }
+    h1:active{
+        color: #ffffff;
+        text-shadow: 2px 2px #000000;
+        
+
     }
    
 

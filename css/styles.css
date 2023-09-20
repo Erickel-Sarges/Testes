@@ -10,6 +10,7 @@ body {
 @font-face {
   font-family: Borel;
   src: url(../fonts/Borel-Regular.ttf);
+  text-decoration: none;
 }
 
 #header {
@@ -17,8 +18,35 @@ body {
   background-color: #9ff1f1;
   border: solid 5px #000000;
 }
+#header .header-social-media ul {
+  display: flex;
+  align-items: center;
+  font-size: 20px;
+  justify-content: center;
+  max-width: 200px;
+  margin-left: auto;
+  height: 100%;
+  list-style: none;
+}
+#header .header-social-media ul li {
+  margin: 0 1rem;
+}
+#header .header-social-media ul li a {
+  text-decoration: none;
+  color: #000000;
+}
+#header .header-social-media ul li a:hover {
+  color: rgba(0, 0, 0, 0.5333333333);
+}
 #header h1 {
   text-shadow: 2px 2px #ffffff;
+}
+#header h1:hover {
+  cursor: pointer;
+}
+#header h1:active {
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
 }
 
 .nav-bar {
